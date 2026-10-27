@@ -156,4 +156,5 @@ AIを使って学びながら試行錯誤することが好きで、AIの使い�
 草カレンダーのCSS Grid実装、Minitestでのテスト記述はいずれも初挑戦に近い。完成イメージは頭の中にあるが、実装の見積もりの精度は手を動かしてみないと定まらない部分がある。そのため、本サービスにいきなり組み込むのではなく、まず簡易的な草カレンダーをミニアプリとして開発し、そこで得た経験値を本サービスの実装に活かす、という段階的な進め方を取る。
 
 ### 画面遷移図
-figma: https://www.figma.com/design/M7669l9GAheeqUImcfnwFv/log_ai?node-id=0-1&t=HIIpMukrtX0PGohT-1
+figma:https://www.figma.com/design/M7669l9GAheeqUImcfnwFv/log_ai?node-id=0-1&t=xmlRh0gChSNFgoUm-1
+
