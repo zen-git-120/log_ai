@@ -158,3 +158,5 @@ AIを使って学びながら試行錯誤することが好きで、AIの使い�
 ### 画面遷移図
 figma:https://www.figma.com/design/M7669l9GAheeqUImcfnwFv/log_ai?node-id=0-1&t=xmlRh0gChSNFgoUm-1
 
+### ER図
+https://gyazo.com/77a0330907148d13464826552adfe627
