@@ -159,4 +159,4 @@ AIを使って学びながら試行錯誤することが好きで、AIの使い�
 figma:https://www.figma.com/design/M7669l9GAheeqUImcfnwFv/log_ai?node-id=0-1&t=xmlRh0gChSNFgoUm-1
 
 ### ER図
-https://gyazo.com/1f3bb2810f6e21cfbdacb511ad88438a
+https://gyazo.com/99df42f9e9067f88214e808367ba4d07
